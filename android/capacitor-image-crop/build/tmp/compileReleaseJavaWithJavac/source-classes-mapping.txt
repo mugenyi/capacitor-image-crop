@@ -1,0 +1,4 @@
+co/fitcom/capacitor/capacitorimagecrop/BuildConfig.java
+ co.fitcom.capacitor.capacitorimagecrop.BuildConfig
+co/fitcom/capacitor/ImageCropPlugin.java
+ co.fitcom.capacitor.ImageCropPlugin
